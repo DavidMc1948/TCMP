@@ -12,8 +12,6 @@ The piece explains how Marxism is pro-growth and pro-technology.
 
 This article refutes the popular deskilling thesis that capitalism is reducing workers to automatons, and hence incapable of removing and managing without the bourgeoisie.
 
-[Refuting "Anti-Imperialist" Myths: A Review of Warren's]
-
 [Refuting "Anti-Imperialist" Myths: A Review of Warren's *Imperialism, Pioneer of Capitalism*](http://www.lastsuperpower.net/docs/warren)
 
 A review of a book that shows how anti-imperialism usually represents a reactionary attitude to capitalism
