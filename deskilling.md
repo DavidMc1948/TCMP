@@ -1,4 +1,4 @@
-﻿***DESKILLING DEBUNKED***
+# DESKILLING DEBUNKED
 
 _David McMullen_
 
@@ -6,7 +6,7 @@ _David McMullen_
 
 The technological changes that have accompanied industrial development during the last one hundred years or more have lead to the elimination of a whole range of old work skills. It is often argued that this process has meant the polarisation of the work force into a shrinking minority of highly trained workers on the one hand and an expanding majority who are confined to increasingly unskilled, tedious and repetitive tasks on the other. This approach owes much to the work of Braverman and it has been very much the prevailing orthodoxy in some quarters. This article aims to refute this "deskilling" thesis.
 
-**Shop floor approach**
+## Shop floor approach
 
 The deskilling theorists conjure up the picture of a typical shopfloor producing a particular product or range of products. Originally work was performed by skilled craft people. These were replaced by machine operators. And with automation, the machine operator is replaced by unskilled machine minders or process workers. A similar picture of deskilling is painted for clerical work and retailing. This approach has a number of weaknesses.
 
@@ -16,7 +16,7 @@ It may well be that a particular technological change in a factory leads to a sk
 
 Another mistake made by the deskilling theorists is that when looking at recent or current technological changes, they assume that the knowledge incorporated in the new machinery (or software) is typically the knowledge of the worker. It thus appears obvious that the change involves deskilling. However it is only in a very early stage of industrial development that this can be considered the general form of the process of technological change. Industry has long since generated a internal division of labour in which it is no longer primarily the knowledge of blue collar workers that governs the process but rather that of technicians and engineers.
 
-**Education and general ability**
+## Education and general ability
 
 Comparing skill levels is complicated by the fact that job skills of the past were specific to a particular task whereas now they are more likely to take the form of general abilities based on a higher level of education. These modern "skills" are those necessary for job mobility and for coping with changing production processes.
 
@@ -28,17 +28,17 @@ Even aside from general schooling, technical training has expanded considerably.
 
 Braverman suggests that growing signs of dissatisfaction with work are indicative of the fact that work is becoming increasingly routine and lacking in skill. However, his argument is somewhat weakened by his admission that the dissatisfaction is greatest among the better educated (Braverman, pp.34-5 and p.441). This would seem to suggest that the increased dissatisfaction is due to people's expectations being greater. Modern industry requires a worker with a higher level of education and general level of ability. However, at the same time it thereby creates someone who is less likely to be reconciled to the hierarchy and tedium that management normally still imposes on the labour process.
 
-**Division of labour**
+## Division of labour
 
 As we have noted, the accepted wisdom claims that technological change is leading to an increasingly rigid division between a skilled minority who know what is going on and a majority who simply carry out repetitive and mindless tasks. In actual fact, the changes taking place are doing the opposite, and the elimination of the old skills is an important part of the process. Let us start by looking at the effect of the "microprocessor revolution" in the office. Firstly, as already mentioned, the word processor is eliminating a lot of the more routine typing tasks. Secondly, there are signs that "word originators" will be doing an increasing share of their own typing, given that virtually everyone will have a terminal on their desk. Once voice recognition comes on the scene the need for typists will be greatly reduced if not completely eliminated. Furthermore, senior staff are also finding themselves doing the work of file clerks, as they search for information on their desk top terminal. A similar breakdown of the division of labour can be found in the newspaper industry. The journalist is increasingly taking on the job of the typesetter. Instead of using a typewriter the journalist types the story directly onto a computer that formats it for printing. In terms of the deskilling debate you could say that the task of file clerk and typist is upgraded by being merged with "managerial" work and that the task of typesetter is upgraded by being merged with that of journalist. (Of course, there is no suggestion that the person filling the original position is necessarily upgraded as tasks change. For instance, many typesetters are simply being thrown on the early retirement scrap heap. But that is a separate issue.) In manufacturing, automatic drafting equipment (ADE), computer aided design (CAD) and computer aided manufacturing (CAM) are eliminating our reliance on a "technocratic elite" with years of specialised training and experience. Instead these processes will be accessible to anyone who is "computer literate" - and within a generation that will mean most people.
 
 Certainly, there is no denying the fact that management practices have had a tendency to thwart this erosion of the division of labour and to make work tedious and limited for as many people as possible. Adler cites various situations where lack of staff development has meant that the potential of new technologies is scarcely tapped. In some cases, word processors are used simply as fancy typewriters, flexible manufacturing systems (FMSs) are used like very inflexible conventional automated assembly lines (Adler, p.18) and computer aided design systems (CAD) are used as if they are nothing more than electronic pencils (Adler, p.16).
 
-**Conclusion**
+## Conclusion
 
 To conclude, the retention, rather than the elimination, of the old skills is the source of hierarchy in production. The time spent learning and applying such skills is time not spent learning and applying a broad range of abilities. And it is only when the average worker has this broad range of abilities that we will be able to dispense with authoritarian management practices. We want a society where everybody is engaged in the decision making, research and development side of production. Let's leave the manual work to the robots and menial mental tasks to the computers.
 
-**References**
+## References
 
 Adler, Paul, "Managing flexibility: a selective review of the challenges of managing the new production technologies' potential for flexibility", a Report to the OECD, 1985.
 
